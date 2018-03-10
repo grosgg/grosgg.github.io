@@ -1,0 +1,13 @@
+body {  
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+div {
+  width: 100%;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
